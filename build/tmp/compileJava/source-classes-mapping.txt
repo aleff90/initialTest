@@ -20,11 +20,11 @@ exemplosAulas/operadorIncrementoDecremento.java
  exemplosAulas.operadorIncrementoDecremento
 exemplosAulas/operadoresLogicos.java
  exemplosAulas.operadoresLogicos
-exemplosAulas/listaNumeroPar.java
- exemplosAulas.listaNumeroPar
-exemplosAulas/exemploOperadorTernario.java
- exemplosAulas.exemploOperadorTernario
 exemplosAulas/exemploDeFor.java
  exemplosAulas.exemploDeFor
+exemplosAulas/exemploOperadorTernario.java
+ exemplosAulas.exemploOperadorTernario
+exemplosAulas/listaNumeroPar.java
+ exemplosAulas.listaNumeroPar
 exemplosAulas/classeScanner.java
  exemplosAulas.classeScanner

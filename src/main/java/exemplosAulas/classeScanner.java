@@ -1,20 +1,23 @@
 package exemplosAulas;
+//import java.lang.Exception;
 import java.util.Scanner;
 public class classeScanner {
     public static void main(String[]args) {
-        Scanner texto = new Scanner(System.in);
-        String str;
-
-        System.out.println("Entre com seu nome: ");
-        str = texto.nextLine();
-        System.out.println("Bem-vindo "+str);
+        Scanner text = new Scanner(System.in);
+        //String str;
 
         //try {
-            System.out.println("Digite um numero.");
-            int numero = texto.nextInt();
-            System.out.println("O numero digitado foi: " + numero);
-        //} catch (Exception e) { System.out.println("Digite corretamente"); }
+            System.out.println("Enter your name: ");
+            String name = text.nextLine();
+            System.out.println("Wellcome " + name);
+        //} catch (Exception one) { System.out.println("Type correctly!"); }
+
+        //try {
+            System.out.println("Imput a number: ");
+            int numero = text.nextInt();
+            System.out.println("The number entered was: " + numero);
+        //} catch (Exception two) { System.out.println("Type correctly!"); }
         
-        texto.close();
+        text.close();
     }
 }
