@@ -4,6 +4,8 @@ exemplosAulas/exemploDoWhile.java
  exemplosAulas.exemploDoWhile
 exemplosAulas/operacoesSimples.java
  exemplosAulas.operacoesSimples
+exemplosAulas/listaNumeroPar.java
+ exemplosAulas.listaNumeroPar
 exemplosAulas/exemploIntStreams.java
  exemplosAulas.exemploIntStreams
 exemplosAulas/exemploWhile.java
@@ -24,7 +26,10 @@ exemplosAulas/exemploDeFor.java
  exemplosAulas.exemploDeFor
 exemplosAulas/exemploOperadorTernario.java
  exemplosAulas.exemploOperadorTernario
-exemplosAulas/listaNumeroPar.java
- exemplosAulas.listaNumeroPar
 exemplosAulas/classeScanner.java
  exemplosAulas.classeScanner
+exemplosAulas/exemploGetSet.java
+ exemplosAulas.Variaveis
+ exemplosAulas.exemploGetSet
+exemplosAulas/exemploBreakContinue.java
+ exemplosAulas.exemploBreakContinue
