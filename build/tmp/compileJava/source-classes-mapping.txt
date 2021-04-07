@@ -33,3 +33,5 @@ exemplosAulas/exemploGetSet.java
  exemplosAulas.exemploGetSet
 exemplosAulas/exemploBreakContinue.java
  exemplosAulas.exemploBreakContinue
+exemplosAulas/variableStoreValue.java
+ exemplosAulas.variableStoreValue
