@@ -35,3 +35,5 @@ exemplosAulas/exemploBreakContinue.java
  exemplosAulas.exemploBreakContinue
 exemplosAulas/variableStoreValue.java
  exemplosAulas.variableStoreValue
+exemplosAulas/methodWithIfElse.java
+ exemplosAulas.methodWithIfElse
