@@ -1,0 +1,47 @@
+exemplosAulas/methodWithIfElse.java
+ exemplosAulas.methodWithIfElse
+exemplosAulas/listaNumeroPar.java
+ exemplosAulas.listaNumeroPar
+exemplosAulas/overloadMethod2.java
+ exemplosAulas.overloadMethod2
+exemplosAulas/tiposDePrintLines.java
+ exemplosAulas.tiposDePrintLines
+exemplosAulas/exemploDoWhile.java
+ exemplosAulas.exemploDoWhile
+exemplosAulas/operacoesSimples.java
+ exemplosAulas.operacoesSimples
+exemplosAulas/exemploBreakContinue.java
+ exemplosAulas.exemploBreakContinue
+exemplosAulas/exemploIntStreams.java
+ exemplosAulas.exemploIntStreams
+exemplosAulas/exemploWhile.java
+ exemplosAulas.exemploWhile
+exemplosAulas/listaNumeroImpar.java
+ exemplosAulas.listaNumeroImpar
+exemplosAulas/exemploArray.java
+ exemplosAulas.exemploArray
+exemplosAulas/exemploConcatenacao.java
+ exemplosAulas.exemploConcatenacao
+exemplosAulas/exemploIfElseEstoque.java
+ exemplosAulas.exemploIfElseEstoque
+exemplosAulas/operadorIncrementoDecremento.java
+ exemplosAulas.operadorIncrementoDecremento
+exemplosAulas/variableStoreValue.java
+ exemplosAulas.variableStoreValue
+exemplosAulas/operadoresLogicos.java
+ exemplosAulas.operadoresLogicos
+exemplosAulas/exemploDeFor.java
+ exemplosAulas.exemploDeFor
+exemplosAulas/exemploOperadorTernario.java
+ exemplosAulas.exemploOperadorTernario
+exemplosAulas/classeScanner.java
+ exemplosAulas.classeScanner
+exemplosAulas/overloadMethod.java
+ exemplosAulas.overloadMethod
+exemplosAulas/exemploGetSet.java
+ exemplosAulas.Variaveis
+ exemplosAulas.exemploGetSet
+exemplosAulas/recursionExample.java
+ exemplosAulas.recursionExample
+exemplosAulas/haltingCondition.java
+ exemplosAulas.haltingCondition
