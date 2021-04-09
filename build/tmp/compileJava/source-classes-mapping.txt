@@ -28,8 +28,8 @@ exemplosAulas/operadorIncrementoDecremento.java
  exemplosAulas.operadorIncrementoDecremento
 exemplosAulas/variableStoreValue.java
  exemplosAulas.variableStoreValue
-exemplosAulas/operadoresLogicos.java
- exemplosAulas.operadoresLogicos
+exemplosAulas/haltingCondition.java
+ exemplosAulas.haltingCondition
 exemplosAulas/exemploDeFor.java
  exemplosAulas.exemploDeFor
 exemplosAulas/exemploOperadorTernario.java
@@ -43,5 +43,7 @@ exemplosAulas/exemploGetSet.java
  exemplosAulas.exemploGetSet
 exemplosAulas/recursionExample.java
  exemplosAulas.recursionExample
-exemplosAulas/haltingCondition.java
- exemplosAulas.haltingCondition
+exemplosAulas/operadoresLogicos.java
+ exemplosAulas.operadoresLogicos
+exemplosAulas/multipleAttributes.java
+ exemplosAulas.multipleAttributes
