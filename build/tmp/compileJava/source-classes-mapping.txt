@@ -47,3 +47,5 @@ exemplosAulas/operadoresLogicos.java
  exemplosAulas.operadoresLogicos
 exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
+exemplosAulas/differenceBetweenStaticPublic.java
+ exemplosAulas.differenceBetweenStaticPublic
