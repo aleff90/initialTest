@@ -49,3 +49,5 @@ exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
 exemplosAulas/differenceBetweenStaticPublic.java
  exemplosAulas.differenceBetweenStaticPublic
+exemplosAulas/accessMethodsWithObject.java
+ exemplosAulas.accessMethodsWithObject
