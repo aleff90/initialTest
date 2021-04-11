@@ -67,7 +67,7 @@ public class exampleList {
         //Checando se há algum elemento "Fernando"
         boolean temFernando = nomes.contains("Fernando");
         System.out.println(temFernando);
-        
+
         //Verificamos se a lista esta vazia
         boolean listaEstaVazia = nomes.isEmpty();
         System.out.println(listaEstaVazia);
@@ -87,7 +87,6 @@ public class exampleList {
         nomes.clear();
         listaEstaVazia = nomes.isEmpty();
         System.out.println(listaEstaVazia);
-
     }
 }
 
