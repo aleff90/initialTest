@@ -53,7 +53,9 @@ exemplosAulas/accessMethodsWithObject.java
  exemplosAulas.accessMethodsWithObject
 exemplosAulas/exampleList.java
  exemplosAulas.exampleList
+exemplosAulas/exemploLinkedListQueue.java
+ exemplosAulas.exemploLinkedListQueue
 exemplosAulas/exercicioArrayList.java
  exemplosAulas.exercicioArrayList
-exemplosAulas/exemploLinkedList.java
- exemplosAulas.exemploLinkedList
+exemplosAulas/exericioLinkedListQueue.java
+ exemplosAulas.exericioLinkedListQueue
