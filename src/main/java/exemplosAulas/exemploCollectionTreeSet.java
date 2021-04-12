@@ -3,7 +3,7 @@ package exemplosAulas;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-public class exemploTreeSet {
+public class exemploCollectionTreeSet {
     public static void main(String[] args) {
 
         TreeSet<String> treeCapitals = new TreeSet<>();

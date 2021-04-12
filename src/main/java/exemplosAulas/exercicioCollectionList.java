@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class exercicioArrayList {
+public class exercicioCollectionList {
     public static void main(String[] args) {
         List<String> nomes = new ArrayList<>();
         nomes.add("Juliana");
