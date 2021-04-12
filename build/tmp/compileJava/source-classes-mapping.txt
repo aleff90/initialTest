@@ -61,3 +61,5 @@ exemplosAulas/exemploLinkedListQueue.java
  exemplosAulas.exemploLinkedListQueue
 exemplosAulas/exemploHashSet.java
  exemplosAulas.exemploHashSet
+exemplosAulas/exemploLinkedHashSet.java
+ exemplosAulas.exemploLinkedHashSet
