@@ -63,3 +63,5 @@ exemplosAulas/exemploHashSet.java
  exemplosAulas.exemploHashSet
 exemplosAulas/exemploLinkedHashSet.java
  exemplosAulas.exemploLinkedHashSet
+exemplosAulas/exemploTreeSet.java
+ exemplosAulas.exemploTreeSet
