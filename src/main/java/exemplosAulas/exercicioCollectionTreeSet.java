@@ -28,21 +28,29 @@ public class exercicioCollectionTreeSet {
 
         System.out.println("\n5 - Qual destes elementos " + numeros + " você quer apagar?");
         question = questionTreeSet.nextInt();
-        if (question == 20) {
-            numeros.remove(20);
-            System.out.println("Elemento 20 foi removido!" + numeros);
-        } else if (question == 23) {
-            numeros.remove(23);
-            System.out.println("Elemento 23 foi removido!" + numeros);
-        } else if (question == 88) {
-            numeros.remove(88);
-            System.out.println("Elemento 88 foi removido!" + numeros);
-        } else if (question == 44) {
-            numeros.remove(44);
-            System.out.println("Elemento 44 foi removido!" + numeros);
-        } else {
-            System.out.println("Elemento não encontrado!"+numeros);
+
+        switch (question) {
+            case 88 -> {
+                numeros.remove(88);
+                System.out.println("Elemento 88 apagado! " + numeros);
+            }
+            case 20 -> {
+                numeros.remove(20);
+                System.out.println("Elemento 20 apagado!" + numeros);
+            }
+            case 44 -> {
+                numeros.remove(44);
+                System.out.println("Elemento 44 apagado!" + numeros);
+            }
+            case 23 -> {
+                numeros.remove(23);
+                System.out.println("Elemento 23 apagado!" + numeros);
+            }
+            default ->
+                System.out.println("Elemento não encontrado!"+numeros);
+
         }
+
         System.out.println("\n6 - O que deseja fazer a seguir?" +
                 " Digite 0 para sair, " +
                 "1 para adicionar novo elemento");
@@ -85,3 +93,18 @@ public class exercicioCollectionTreeSet {
         System.out.println(numeros);
     }*/
    
+/*if (question == 20) {
+            numeros.remove(20);
+            System.out.println("Elemento 20 foi removido!" + numeros);
+        } else if (question == 23) {
+            numeros.remove(23);
+            System.out.println("Elemento 23 foi removido!" + numeros);
+        } else if (question == 88) {
+            numeros.remove(88);
+            System.out.println("Elemento 88 foi removido!" + numeros);
+        } else if (question == 44) {
+            numeros.remove(44);
+            System.out.println("Elemento 44 foi removido!" + numeros);
+        } else {
+            System.out.println("Elemento não encontrado!"+numeros);
+        }*/
