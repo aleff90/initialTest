@@ -67,14 +67,21 @@ public class exercicioCollectionTreeSet {
 
 
       /*switch (question) {
-            case 1:
-                System.out.println("Elemento 20 apagado! "+numeros);
-                question = numeros.remove(20);
-                break;
-            case 2:
-                numeros.remove(23);
-                System.out.println("Elemento 23 apagado!");
-                break;
-           // case 3:
-             //   numeros.remove()
-        }*/
+      case 88:
+        numeros.remove(88);
+        System.out.println("Elemento 88 apagado! " + numeros);
+        break;
+      case 20:
+        numeros.remove(20);
+        System.out.println("Elemento 20 apagado!");
+        break;
+      case 44:
+        numeros.remove(44);
+        System.out.println("Elemento 44 apagado!");
+
+      default:
+        System.out.println("Elemento não encontrado!" + numeros);
+
+        System.out.println(numeros);
+    }
+   
