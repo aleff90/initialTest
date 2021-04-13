@@ -59,8 +59,8 @@ exemplosAulas/exemploCollectionList.java
  exemplosAulas.exemploCollectionList
 exemplosAulas/exemploCollectionQueue.java
  exemplosAulas.exemploCollectionQueue
-exemplosAulas/exercicioCollectionLinkedHashSet.java
- exemplosAulas.exercicioCollectionLinkedHashSet
+exemplosAulas/exercicioCollectionHashSet.java
+ exemplosAulas.exercicioCollectionHashSet
 exemplosAulas/exercicioCollectionQueue.java
  exemplosAulas.exercicioCollectionQueue
 exemplosAulas/exemploCollectionHashSet.java
@@ -69,5 +69,5 @@ exemplosAulas/exercicioCollectionTreeSet.java
  exemplosAulas.exercicioCollectionTreeSet
 exemplosAulas/classeScanner.java
  exemplosAulas.classeScanner
-exemplosAulas/exercicioCollectionHashSet.java
- exemplosAulas.exercicioCollectionHashSet
+exemplosAulas/exercicioCollectionLinkedHashSet.java
+ exemplosAulas.exercicioCollectionLinkedHashSet
