@@ -34,8 +34,8 @@ exemplosAulas/exemploDeFor.java
  exemplosAulas.exemploDeFor
 exemplosAulas/exemploOperadorTernario.java
  exemplosAulas.exemploOperadorTernario
-exemplosAulas/classeScanner.java
- exemplosAulas.classeScanner
+exemplosAulas/exercicioCollectionList.java
+ exemplosAulas.exercicioCollectionList
 exemplosAulas/overloadMethod.java
  exemplosAulas.overloadMethod
 exemplosAulas/exemploGetSet.java
@@ -51,17 +51,23 @@ exemplosAulas/differenceBetweenStaticPublic.java
  exemplosAulas.differenceBetweenStaticPublic
 exemplosAulas/accessMethodsWithObject.java
  exemplosAulas.accessMethodsWithObject
-exemplosAulas/exampleList.java
- exemplosAulas.exampleList
-exemplosAulas/exericioLinkedListQueue.java
- exemplosAulas.exericioLinkedListQueue
-exemplosAulas/exercicioArrayList.java
- exemplosAulas.exercicioArrayList
-exemplosAulas/exemploLinkedListQueue.java
- exemplosAulas.exemploLinkedListQueue
-exemplosAulas/exemploHashSet.java
- exemplosAulas.exemploHashSet
-exemplosAulas/exemploLinkedHashSet.java
- exemplosAulas.exemploLinkedHashSet
-exemplosAulas/exemploTreeSet.java
- exemplosAulas.exemploTreeSet
+exemplosAulas/exemploCollectionLinkedHashSet.java
+ exemplosAulas.exemploCollectionLinkedHashSet
+exemplosAulas/exemploCollectionTreeSet.java
+ exemplosAulas.exemploCollectionTreeSet
+exemplosAulas/exemploCollectionList.java
+ exemplosAulas.exemploCollectionList
+exemplosAulas/exemploCollectionQueue.java
+ exemplosAulas.exemploCollectionQueue
+exemplosAulas/exercicioCollectionLinkedHashSet.java
+ exemplosAulas.exercicioCollectionLinkedHashSet
+exemplosAulas/exercicioCollectionQueue.java
+ exemplosAulas.exercicioCollectionQueue
+exemplosAulas/exemploCollectionHashSet.java
+ exemplosAulas.exemploCollectionHashSet
+exemplosAulas/exercicioCollectionTreeSet.java
+ exemplosAulas.exercicioCollectionTreeSet
+exemplosAulas/classeScanner.java
+ exemplosAulas.classeScanner
+exemplosAulas/exercicioCollectionHashSet.java
+ exemplosAulas.exercicioCollectionHashSet
