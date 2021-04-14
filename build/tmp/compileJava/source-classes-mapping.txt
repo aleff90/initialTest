@@ -71,3 +71,5 @@ exemplosAulas/exercicioCollectionLinkedHashSet.java
  exemplosAulas.exercicioCollectionLinkedHashSet
 exemplosAulas/exercicioCollectionTreeSet.java
  exemplosAulas.exercicioCollectionTreeSet
+exemplosAulas/exemploCollectionsHashMap.java
+ exemplosAulas.exemploCollectionsHashMap
