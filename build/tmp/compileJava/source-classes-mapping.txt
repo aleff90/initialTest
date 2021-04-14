@@ -75,3 +75,5 @@ exemplosAulas/exemploCollectionsHashMap.java
  exemplosAulas.exemploCollectionsHashMap
 exemplosAulas/exemploCollectionsTreeMap.java
  exemplosAulas.exemploCollectionsTreeMap
+exemplosAulas/exercicioCollectionHashMap.java
+ exemplosAulas.exercicioCollectionHashMap
