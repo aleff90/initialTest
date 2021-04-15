@@ -1,5 +1,6 @@
 package exemplosAulas;
 
+import java.util.Map;
 import java.util.TreeMap;
 
 public class exercicioCollectionHashMap {
@@ -15,7 +16,7 @@ public class exercicioCollectionHashMap {
         estadosBrasileiros.put("CE", "Ceara");
         estadosBrasileiros.put("ES", "Espirito Santo");
         estadosBrasileiros.put("GO", "Goias");
-        estadosBrasileiros.put("MA", "Maranhao");
+        estadosBrasileiros.put("MA", "Maranhão");
         estadosBrasileiros.put("MT", "Mato Grosso");
         estadosBrasileiros.put("MS", "Mato Grosso do Sul");
         estadosBrasileiros.put("MG", "Minas Gerais");
@@ -33,19 +34,30 @@ public class exercicioCollectionHashMap {
         estadosBrasileiros.put("SP", "São Paulo");
         estadosBrasileiros.put("SE", "Sergipe");
         estadosBrasileiros.put("TO", "Tocantins");
-        System.out.println("\n1 - Lista de estados brasileiros: "+estadosBrasileiros);
+        System.out.println("\n 1 - Lista de estados brasileiros: "+estadosBrasileiros);
 
         estadosBrasileiros.remove("MG");
-        System.out.println("\n2 - Lista de estados brasileiros excluindo minas gerais: "+estadosBrasileiros);
+        System.out.println("\n 2 - Lista de estados brasileiros excluindo minas gerais: "+estadosBrasileiros);
 
         estadosBrasileiros.put("DF", "Distrito Federal");
-        System.out.println("\n3 - Adicionando distrito federal: "+estadosBrasileiros);
+        System.out.println("\n 3 - Adicionando distrito federal: "+estadosBrasileiros);
 
-        System.out.println("\n4 - Tamanho do mapa: "+estadosBrasileiros.size());
+        System.out.println("\n 4 - Tamanho do mapa: "+estadosBrasileiros.size());
 
-        estadosBrasileiros.remove("Mato Grosso do Sul");
-        System.out.println("\n5 - Lista de estados brasileiros excluindo mato grosso do sul: "+estadosBrasileiros);
+        if (estadosBrasileiros.containsValue("Mato Grosso do Sul")) {
+            estadosBrasileiros.remove("MS");
+            System.out.println("\n 5 - Lista de estados brasileiros excluindo mato grosso do sul: " + estadosBrasileiros);
+        } else {
+            System.out.println("\n 5 - O elemento Mato Grosso do Sul não esta presente!" + estadosBrasileiros);
+        }
 
+        for (Map.Entry<String, String> estados:estadosBrasileiros.entrySet()){
+            System.out.println(estados.getValue()+" ("+estados.getKey()+")");
+        }
+
+        System.out.println("\n 6 - O estado de Santa Catarina existe no mapa: " + estadosBrasileiros.containsKey("SC"));
+
+        System.out.println("\n 7 - O estado do Maranhao existe no mapa: " + estadosBrasileiros.containsValue("Maranhão"));
     }
 }
 
@@ -53,7 +65,7 @@ public class exercicioCollectionHashMap {
 * Remova o estado de Minas Gerais.--
 * Adicione o Distrito Federal.--
 * Verifique o tamanho do mapa.--
-* Remova o estado do Mato Grosso do Sul usando o nome.
-* Navegue em todos os registros do mapa, mostrando no console no seguinte formato: NOME (SIGLA).
-* Verifique se o estado de Santa Catarina existe no map buscando por sua sigla (SC).
+* Remova o estado do Mato Grosso do Sul usando o nome.--
+* Navegue em todos os registros do mapa, mostrando no console no seguinte formato: NOME (SIGLA).--
+* Verifique se o estado de Santa Catarina existe no map buscando por sua sigla (SC).--
 * Verifique se o estado de Maranhão existe no map buscando por seu nome.*/
