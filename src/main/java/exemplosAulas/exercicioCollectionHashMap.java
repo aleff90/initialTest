@@ -58,6 +58,8 @@ public class exercicioCollectionHashMap {
         System.out.println("\n 6 - O estado de Santa Catarina existe no mapa: " + estadosBrasileiros.containsKey("SC"));
 
         System.out.println("\n 7 - O estado do Maranhao existe no mapa: " + estadosBrasileiros.containsValue("Maranhão"));
+
+        System.out.println("\n " + estadosBrasileiros.get("MG"));
     }
 }
 
@@ -68,4 +70,4 @@ public class exercicioCollectionHashMap {
 * Remova o estado do Mato Grosso do Sul usando o nome.--
 * Navegue em todos os registros do mapa, mostrando no console no seguinte formato: NOME (SIGLA).--
 * Verifique se o estado de Santa Catarina existe no map buscando por sua sigla (SC).--
-* Verifique se o estado de Maranhão existe no map buscando por seu nome.*/
+* Verifique se o estado de Maranhão existe no map buscando por seu nome.--*/
