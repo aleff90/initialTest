@@ -31,7 +31,7 @@ public class exemploCollectionQueue {
 
         //String primeiroClienteOuErro = filaDeBanco.element();
         //System.out.println(primeiroClienteOuErro);
-        // System.out.println(filaDeBanco);
+        //System.out.println(filaDeBanco);
 
         //Iterando dentro da lista com for
         for (String client: filaDeBanco) {
@@ -56,8 +56,3 @@ public class exemploCollectionQueue {
         System.out.println("9 - "+filaDeBanco);
     }
 }
-
-
-
-
-
