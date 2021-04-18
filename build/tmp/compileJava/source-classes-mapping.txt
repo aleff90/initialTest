@@ -1,11 +1,50 @@
-exemplosAulas/methodWithIfElse.java
- exemplosAulas.methodWithIfElse
-exemplosAulas/listaNumeroPar.java
- exemplosAulas.listaNumeroPar
-exemplosAulas/overloadMethod2.java
- exemplosAulas.overloadMethod2
+exemplosAulas/exemploCollectionsHashMap.java
+ exemplosAulas.exemploCollectionsHashMap
 exemplosAulas/tiposDePrintLines.java
  exemplosAulas.tiposDePrintLines
+exemplosAulas/exemploConcatenacao.java
+ exemplosAulas.exemploConcatenacao
+exemplosAulas/haltingCondition.java
+ exemplosAulas.haltingCondition
+exemplosAulas/operadorIncrementoDecremento.java
+ exemplosAulas.operadorIncrementoDecremento
+exemplosAulas/variableStoreValue.java
+ exemplosAulas.variableStoreValue
+exemplosAulas/exemploCollectionLinkedHashSet.java
+ exemplosAulas.exemploCollectionLinkedHashSet
+exemplosAulas/exemploCollectionTreeSet.java
+ exemplosAulas.exemploCollectionTreeSet
+exemplosAulas/exercicioCollectionHashSet.java
+ exemplosAulas.exercicioCollectionHashSet
+exemplosAulas/exemploOperadorTernario.java
+ exemplosAulas.exemploOperadorTernario
+exemplosAulas/exercicioCollectionLinkedHashSet.java
+ exemplosAulas.exercicioCollectionLinkedHashSet
+exemplosAulas/exercicioCollectionQueue.java
+ exemplosAulas.exercicioCollectionQueue
+exemplosAulas/exemploCollectionHashSet.java
+ exemplosAulas.exemploCollectionHashSet
+exemplosAulas/exercicioCollectionTreeSet.java
+ exemplosAulas.exercicioCollectionTreeSet
+exemplosAulas/classeScanner.java
+ exemplosAulas.classeScanner
+exemplosAulas/overloadMethod.java
+ exemplosAulas.overloadMethod
+exemplosAulas/differenceBetweenStaticPublic.java
+ exemplosAulas.differenceBetweenStaticPublic
+exemplosAulas/exercicioCollectionList.java
+ exemplosAulas.exercicioCollectionList
+exemplosAulas/exemploGetSet.java
+ exemplosAulas.Variaveis
+ exemplosAulas.exemploGetSet
+exemplosAulas/listaNumeroPar.java
+ exemplosAulas.listaNumeroPar
+exemplosAulas/methodWithIfElse.java
+ exemplosAulas.methodWithIfElse
+exemplosAulas/recursionExample.java
+ exemplosAulas.recursionExample
+exemplosAulas/overloadMethod2.java
+ exemplosAulas.overloadMethod2
 exemplosAulas/exemploDoWhile.java
  exemplosAulas.exemploDoWhile
 exemplosAulas/operacoesSimples.java
@@ -16,64 +55,31 @@ exemplosAulas/exemploIntStreams.java
  exemplosAulas.exemploIntStreams
 exemplosAulas/exemploWhile.java
  exemplosAulas.exemploWhile
+exemplosAulas/accessMethodsWithObject.java
+ exemplosAulas.accessMethodsWithObject
 exemplosAulas/listaNumeroImpar.java
  exemplosAulas.listaNumeroImpar
 exemplosAulas/exemploArray.java
  exemplosAulas.exemploArray
-exemplosAulas/exemploConcatenacao.java
- exemplosAulas.exemploConcatenacao
-exemplosAulas/exemploIfElseEstoque.java
- exemplosAulas.exemploIfElseEstoque
-exemplosAulas/operadorIncrementoDecremento.java
- exemplosAulas.operadorIncrementoDecremento
-exemplosAulas/variableStoreValue.java
- exemplosAulas.variableStoreValue
-exemplosAulas/haltingCondition.java
- exemplosAulas.haltingCondition
-exemplosAulas/exemploDeFor.java
- exemplosAulas.exemploDeFor
-exemplosAulas/exemploOperadorTernario.java
- exemplosAulas.exemploOperadorTernario
-exemplosAulas/exercicioCollectionList.java
- exemplosAulas.exercicioCollectionList
-exemplosAulas/overloadMethod.java
- exemplosAulas.overloadMethod
-exemplosAulas/exemploGetSet.java
- exemplosAulas.Variaveis
- exemplosAulas.exemploGetSet
-exemplosAulas/recursionExample.java
- exemplosAulas.recursionExample
-exemplosAulas/operadoresLogicos.java
- exemplosAulas.operadoresLogicos
-exemplosAulas/multipleAttributes.java
- exemplosAulas.multipleAttributes
-exemplosAulas/differenceBetweenStaticPublic.java
- exemplosAulas.differenceBetweenStaticPublic
-exemplosAulas/accessMethodsWithObject.java
- exemplosAulas.accessMethodsWithObject
-exemplosAulas/exemploCollectionLinkedHashSet.java
- exemplosAulas.exemploCollectionLinkedHashSet
-exemplosAulas/exemploCollectionTreeSet.java
- exemplosAulas.exemploCollectionTreeSet
 exemplosAulas/exemploCollectionList.java
  exemplosAulas.exemploCollectionList
+exemplosAulas/exemploIfElseEstoque.java
+ exemplosAulas.exemploIfElseEstoque
+exemplosAulas/operadoresLogicos.java
+ exemplosAulas.operadoresLogicos
 exemplosAulas/exemploCollectionQueue.java
  exemplosAulas.exemploCollectionQueue
-exemplosAulas/exercicioCollectionHashSet.java
- exemplosAulas.exercicioCollectionHashSet
-exemplosAulas/exercicioCollectionQueue.java
- exemplosAulas.exercicioCollectionQueue
-exemplosAulas/exemploCollectionHashSet.java
- exemplosAulas.exemploCollectionHashSet
-exemplosAulas/classeScanner.java
- exemplosAulas.classeScanner
-exemplosAulas/exercicioCollectionLinkedHashSet.java
- exemplosAulas.exercicioCollectionLinkedHashSet
-exemplosAulas/exercicioCollectionTreeSet.java
- exemplosAulas.exercicioCollectionTreeSet
-exemplosAulas/exemploCollectionsTreeMap.java
- exemplosAulas.exemploCollectionsTreeMap
-exemplosAulas/exemploCollectionsHashMap.java
- exemplosAulas.exemploCollectionsHashMap
+exemplosAulas/exemploDeFor.java
+ exemplosAulas.exemploDeFor
 exemplosAulas/exercicioCollectionHashMap.java
  exemplosAulas.exercicioCollectionHashMap
+exemplosAulas/multipleAttributes.java
+ exemplosAulas.multipleAttributes
+exemplosAulas/exemploCollectionsTreeMap.java
+ exemplosAulas.exemploCollectionsTreeMap
+comparators/ComparatorsExampleList.java
+ comparators.ComparatorsExampleList
+comparators/Estudante.java
+ comparators.Estudante
+comparators/EstudanteOrdemIdadeReversaComparator.java
+ comparators.EstudanteOrdemIdadeReversaComparator

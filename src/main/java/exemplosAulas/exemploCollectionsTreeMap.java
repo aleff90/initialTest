@@ -74,6 +74,7 @@ public class exemploCollectionsTreeMap {
         for (Map.Entry<String, String> capital: treeCapitals.entrySet()){
             System.out.println(capital.getKey()+" --- "+capital.getValue());
         }
+        System.out.println(treeCapitals.higherKey("SP"));
     }
 }
 

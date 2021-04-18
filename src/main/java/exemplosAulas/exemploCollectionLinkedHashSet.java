@@ -34,9 +34,9 @@ public class exemploCollectionLinkedHashSet {
         }
 
         sequenciaNumerica.clear();
+
         //Retorna se o set está vazio ou não
         System.out.println(sequenciaNumerica.isEmpty());
-
     }
 }
 
