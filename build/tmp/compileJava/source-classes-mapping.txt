@@ -77,9 +77,15 @@ exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
 exemplosAulas/exemploCollectionsTreeMap.java
  exemplosAulas.exemploCollectionsTreeMap
-comparators/ComparatorsExampleList.java
- comparators.ComparatorsExampleList
-comparators/Estudante.java
- comparators.Estudante
-comparators/EstudanteOrdemIdadeReversaComparator.java
- comparators.EstudanteOrdemIdadeReversaComparator
+comparatorsExemplo/Estudante.java
+ comparatorsExemplo.Estudante
+comparatorsExemplo/ComparatorsExampleList.java
+ comparatorsExemplo.ComparatorsExampleList
+comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
+ comparatorsExemplo.EstudanteOrdemIdadeReversaComparator
+comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
+ comparatorsExercicio.clienteOrdemAnoNascimentoReversa
+comparatorsExercicio/Cliente.java
+ comparatorsExercicio.Cliente
+comparatorsExercicio/listaComparador.java
+ comparatorsExercicio.listaComparador

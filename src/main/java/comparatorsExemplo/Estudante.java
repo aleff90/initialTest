@@ -1,4 +1,4 @@
-package comparators;
+package comparatorsExemplo;
 
 public class Estudante implements Comparable<Estudante>{
 
