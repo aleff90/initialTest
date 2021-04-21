@@ -1,4 +1,4 @@
-package optionalExercicios;
+package exemplosAulas;
 import java.util.Optional;
 public class optionalExercicio {
     public static void main(String[] args) {
