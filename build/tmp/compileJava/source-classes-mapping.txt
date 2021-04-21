@@ -91,3 +91,5 @@ exemplosAulas/exemploCollectionTreeSet.java
  exemplosAulas.exemploCollectionTreeSet
 optionalExemplo/OptionalExemplo.java
  optionalExemplo.OptionalExemplo
+optionalExercicios/optionalExercicio.java
+ optionalExercicios.optionalExercicio
