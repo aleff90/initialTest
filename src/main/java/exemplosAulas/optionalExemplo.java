@@ -1,8 +1,6 @@
 package exemplosAulas;
-
 import java.util.Optional;
-
-public class OptionalExemplo {
+public class optionalExemplo {
     public static void main(String[] args) {
 
         Optional<String> optionalString = Optional.of("\n valor presente");

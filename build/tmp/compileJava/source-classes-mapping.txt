@@ -2,6 +2,8 @@ exemplosAulas/exemploCollectionsHashMap.java
  exemplosAulas.exemploCollectionsHashMap
 exemplosAulas/tiposDePrintLines.java
  exemplosAulas.tiposDePrintLines
+comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
+ comparatorsExemplo.EstudanteOrdemIdadeReversaComparator
 exemplosAulas/exemploConcatenacao.java
  exemplosAulas.exemploConcatenacao
 exemplosAulas/haltingCondition.java
@@ -10,10 +12,14 @@ exemplosAulas/operadorIncrementoDecremento.java
  exemplosAulas.operadorIncrementoDecremento
 exemplosAulas/variableStoreValue.java
  exemplosAulas.variableStoreValue
+exemplosAulas/exemploCollectionsTreeMap.java
+ exemplosAulas.exemploCollectionsTreeMap
+exemplosAulas/multipleAttributes.java
+ exemplosAulas.multipleAttributes
 exemplosAulas/exemploCollectionLinkedHashSet.java
  exemplosAulas.exemploCollectionLinkedHashSet
-comparatorsExercicio/listaComparador.java
- comparatorsExercicio.listaComparador
+exemplosAulas/exemploCollectionTreeSet.java
+ exemplosAulas.exemploCollectionTreeSet
 exemplosAulas/exercicioCollectionHashSet.java
  exemplosAulas.exercicioCollectionHashSet
 exemplosAulas/exemploOperadorTernario.java
@@ -26,10 +32,16 @@ exemplosAulas/exemploCollectionHashSet.java
  exemplosAulas.exemploCollectionHashSet
 exemplosAulas/exercicioCollectionTreeSet.java
  exemplosAulas.exercicioCollectionTreeSet
+comparatorsExercicio/Cliente.java
+ comparatorsExercicio.Cliente
 exemplosAulas/classeScanner.java
  exemplosAulas.classeScanner
 exemplosAulas/overloadMethod.java
  exemplosAulas.overloadMethod
+comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
+ comparatorsExercicio.clienteOrdemAnoNascimentoReversa
+comparatorsExemplo/Estudante.java
+ comparatorsExemplo.Estudante
 exemplosAulas/differenceBetweenStaticPublic.java
  exemplosAulas.differenceBetweenStaticPublic
 exemplosAulas/exercicioCollectionList.java
@@ -53,6 +65,8 @@ exemplosAulas/exemploBreakContinue.java
  exemplosAulas.exemploBreakContinue
 exemplosAulas/exemploIntStreams.java
  exemplosAulas.exemploIntStreams
+comparatorsExemplo/ComparatorsExampleList.java
+ comparatorsExemplo.ComparatorsExampleList
 exemplosAulas/exemploWhile.java
  exemplosAulas.exemploWhile
 exemplosAulas/accessMethodsWithObject.java
@@ -65,6 +79,8 @@ exemplosAulas/exemploCollectionList.java
  exemplosAulas.exemploCollectionList
 exemplosAulas/exemploIfElseEstoque.java
  exemplosAulas.exemploIfElseEstoque
+comparatorsExercicio/listaComparador.java
+ comparatorsExercicio.listaComparador
 exemplosAulas/operadoresLogicos.java
  exemplosAulas.operadoresLogicos
 exemplosAulas/exemploCollectionQueue.java
@@ -73,23 +89,7 @@ exemplosAulas/exemploDeFor.java
  exemplosAulas.exemploDeFor
 exemplosAulas/exercicioCollectionHashMap.java
  exemplosAulas.exercicioCollectionHashMap
-exemplosAulas/multipleAttributes.java
- exemplosAulas.multipleAttributes
-exemplosAulas/exemploCollectionsTreeMap.java
- exemplosAulas.exemploCollectionsTreeMap
-comparatorsExemplo/Estudante.java
- comparatorsExemplo.Estudante
-comparatorsExemplo/ComparatorsExampleList.java
- comparatorsExemplo.ComparatorsExampleList
-comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
- comparatorsExemplo.EstudanteOrdemIdadeReversaComparator
-comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
- comparatorsExercicio.clienteOrdemAnoNascimentoReversa
-comparatorsExercicio/Cliente.java
- comparatorsExercicio.Cliente
-exemplosAulas/exemploCollectionTreeSet.java
- exemplosAulas.exemploCollectionTreeSet
-optionalExemplo/OptionalExemplo.java
- optionalExemplo.OptionalExemplo
-optionalExercicios/optionalExercicio.java
- optionalExercicios.optionalExercicio
+exemplosAulas/optionalExercicio.java
+ exemplosAulas.optionalExercicio
+exemplosAulas/optionalExemplo.java
+ exemplosAulas.optionalExemplo

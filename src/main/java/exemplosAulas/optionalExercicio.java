@@ -6,14 +6,11 @@ public class optionalExercicio {
         Optional<Integer> optionalInteger = Optional.of(75);
         optionalInteger.ifPresent(System.out::println);
 
-//        Optional<Integer> optionalInteger2 = Optional.empty();
-//        if (Optional.empty().isEmpty()){
-//            System.out.println("tes"+IllegalStateException);
-//        } else {
-//            System.out.println(optionalInteger2);
-//        }
+        Optional<String> optionalString = Optional.empty();
+        optionalString.ifPresentOrElse(System.out::println, () -> System.out.println("\n esta vazio"));
 
-
+        Optional<Double> optionalDouble = Optional.ofNullable(null);
+        optionalDouble.ifPresentOrElse(System.out::println, () -> System.out.println("\n null esta presente"));
     }
 }
 
