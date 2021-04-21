@@ -12,8 +12,8 @@ exemplosAulas/variableStoreValue.java
  exemplosAulas.variableStoreValue
 exemplosAulas/exemploCollectionLinkedHashSet.java
  exemplosAulas.exemploCollectionLinkedHashSet
-exemplosAulas/exemploCollectionTreeSet.java
- exemplosAulas.exemploCollectionTreeSet
+comparatorsExercicio/listaComparador.java
+ comparatorsExercicio.listaComparador
 exemplosAulas/exercicioCollectionHashSet.java
  exemplosAulas.exercicioCollectionHashSet
 exemplosAulas/exemploOperadorTernario.java
@@ -87,5 +87,7 @@ comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
  comparatorsExercicio.clienteOrdemAnoNascimentoReversa
 comparatorsExercicio/Cliente.java
  comparatorsExercicio.Cliente
-comparatorsExercicio/listaComparador.java
- comparatorsExercicio.listaComparador
+exemplosAulas/exemploCollectionTreeSet.java
+ exemplosAulas.exemploCollectionTreeSet
+optionalExemplo/OptionalExemplo.java
+ optionalExemplo.OptionalExemplo
