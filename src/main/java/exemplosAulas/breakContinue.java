@@ -1,6 +1,6 @@
 package exemplosAulas;
 
-public class exemploBreakContinue {
+public class breakContinue {
     public static void main(String[] args) {
         int i;
         for (i=1; i<=10; i++) {

@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class exemploCollectionList {
+public class collectionList {
     public static void main(String[] args) {
         //Instanciando um arrayList
         List<String> nomes = new ArrayList<>();

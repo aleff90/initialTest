@@ -3,7 +3,7 @@ package exemplosAulas;
 import java.util.HashMap;
 import java.util.Map;
 
-public class exemploCollectionsHashMap {
+public class collectionsHashMap {
     public static void main(String[] args) {
 
         Map<String, Integer> campeoesMundialFifa = new HashMap<>();

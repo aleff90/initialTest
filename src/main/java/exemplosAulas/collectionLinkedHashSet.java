@@ -3,7 +3,7 @@ package exemplosAulas;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
-public class exemploCollectionLinkedHashSet {
+public class collectionLinkedHashSet {
     public static void main(String[] args) {
 
         LinkedHashSet<Integer> sequenciaNumerica = new LinkedHashSet<>();

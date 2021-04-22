@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class exemploCollectionQueue {
+public class collectionQueue {
     public static void main(String[] args) {
         //Criando uma queue list
         Queue<String> filaDeBanco = new LinkedList<>();

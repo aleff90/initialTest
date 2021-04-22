@@ -1,6 +1,6 @@
 package exemplosAulas;
 import java.util.Arrays;
-public class exemploConcatenacao {
+public class concatenacao {
     public static void main(String[]args) {
 
         String name = "Andy";                 //var name = "Andy";

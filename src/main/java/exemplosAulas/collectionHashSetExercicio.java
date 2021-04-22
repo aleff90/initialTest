@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.lang.String;
 
-public class exercicioCollectionHashSet {
+public class collectionHashSetExercicio {
     public static void main(String[] args) {
 
         Scanner questionSet = new Scanner(System.in);

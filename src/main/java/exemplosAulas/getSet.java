@@ -1,8 +1,8 @@
 package exemplosAulas;
 
-public class exemploGetSet {
+public class getSet {
     public static void main(String[]args){
-        Variaveis var = new Variaveis();
+        variaveis var = new variaveis();
         //Seta os atributos da classe instanciada
         var.setIdade(22);
         var.setNome("Natacha");
@@ -14,7 +14,7 @@ public class exemploGetSet {
     }
 }
 
-class Variaveis {
+class variaveis {
     //Declaração das variaveis
     //Neste caso foram declaradas como private
     //para fazer o chamado encapsulamento
@@ -28,7 +28,7 @@ class Variaveis {
     //Construir da classe
     //Normalmente é o contrutor que inicializa
     //as variaveis da classe
-    public Variaveis() {
+    public variaveis() {
         this.sequencia = 0;
         this.nome = "";
         this.idade = 0;

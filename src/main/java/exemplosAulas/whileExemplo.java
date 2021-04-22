@@ -1,6 +1,6 @@
 package exemplosAulas;
 
-public class exemploWhile {
+public class whileExemplo {
     public static void main(String[]args) {
         int idade = 11;
         while (idade<18) {

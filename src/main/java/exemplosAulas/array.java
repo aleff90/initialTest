@@ -2,7 +2,7 @@ package exemplosAulas;
 import java.lang.String;
 import java.lang.reflect.Array;
 import java.util.Arrays;
-public class exemploArray {
+public class array {
     public static void main(String[] args) {
         String[] paises1 = new String[4];
         paises1[0] = "Ukrania";

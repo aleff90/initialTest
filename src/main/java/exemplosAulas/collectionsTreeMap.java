@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class exemploCollectionsTreeMap {
+public class collectionsTreeMap {
     public static void main(String[] args) {
 
         TreeMap<String, String> treeCapitals = new TreeMap<>();

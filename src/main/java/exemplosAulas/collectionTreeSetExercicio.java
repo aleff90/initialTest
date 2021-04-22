@@ -3,7 +3,7 @@ package exemplosAulas;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class exercicioCollectionTreeSet {
+public class collectionTreeSetExercicio {
     public static void main(String[] args) {
 
         Scanner questionTreeSet = new Scanner(System.in);

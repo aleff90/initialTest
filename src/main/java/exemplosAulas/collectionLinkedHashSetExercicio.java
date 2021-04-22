@@ -3,7 +3,7 @@ package exemplosAulas;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
-public class exercicioCollectionLinkedHashSet {
+public class collectionLinkedHashSetExercicio {
     public static void main(String[] args) {
 
         Scanner questionHashSet = new Scanner(System.in);

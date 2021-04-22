@@ -1,5 +1,5 @@
 package exemplosAulas;
-public class exemploIfElseEstoque {
+public class ifElseEstoque {
     public static void main(String[]args) {
         int estoque = 32;
         if (estoque >= 100) {
