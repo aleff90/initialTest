@@ -68,13 +68,14 @@ public class streamExemplo {
                 .peek(System.out::println)
                 .map(estudantesTamanho->estudantesTamanho.concat(" - ").concat(String.valueOf(estudantesTamanho.length())))
                 .peek(System.out::println)
-                .filter((estudantesMin)->estudantesMin.toLowerCase().contains("r")));
+                .filter((estudantesMin)->estudantesMin.toLowerCase().contains("r"))
+                .collect(Collectors.toList())
+        );
 
     }
 }
 
-// Métodos que podem ser adicionados à operação encadeada
-//.collect(Collectors.toList())
+// outros métodos que podem ser adicionados à operação encadeada
 //.collect(Collectors.joining(", "))
 //.collect(Collectors.toSet())
 //.collect(Collectors.groupingBy(estudantesSub->estudantesSub.substring(estudantesSub.indexOf("-")+1)))
