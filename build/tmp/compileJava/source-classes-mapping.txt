@@ -93,3 +93,5 @@ exemplosAulas/optionalExercicio.java
  exemplosAulas.optionalExercicio
 comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
+exemplosAulas/streamExemplo.java
+ exemplosAulas.streamExemplo
