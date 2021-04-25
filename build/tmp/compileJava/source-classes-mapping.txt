@@ -95,3 +95,5 @@ comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
 exemplosAulas/streamExemplo.java
  exemplosAulas.streamExemplo
+exemplosAulas/paradigmaFuncionalExemplo.java
+ exemplosAulas.paradigmaFuncionalExemplo
