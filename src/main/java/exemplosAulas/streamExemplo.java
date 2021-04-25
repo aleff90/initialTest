@@ -72,6 +72,8 @@ public class streamExemplo {
                 .collect(Collectors.toList())
         );
 
+        System.out.println("\n 14 - Ordenados atravez de String/SubString: "+estudantes.stream().collect(Collectors.groupingBy(estudante->estudante.substring(0, 1))));
+
     }
 }
 
