@@ -109,3 +109,7 @@ exemplosAulas/operadorTernario.java
  exemplosAulas.operadorTernario
 exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
+getSetExample/Main3.java
+ getSetExample.Main3
+getSetExample/Person.java
+ getSetExample.Person
