@@ -122,3 +122,13 @@ polymorphismWithInheritanceExample/Main.java
  polymorphismWithInheritanceExample.Dog
  polymorphismWithInheritanceExample.Main
  polymorphismWithInheritanceExample.Pig
+polymorphismWithInheritanceExample2/Veiculo.java
+ polymorphismWithInheritanceExample2.Veiculo
+polymorphismWithInheritanceExample2/Moto.java
+ polymorphismWithInheritanceExample2.Moto
+polymorphismWithInheritanceExample2/Main.java
+ polymorphismWithInheritanceExample2.Main
+polymorphismWithInheritanceExample2/Caminhao.java
+ polymorphismWithInheritanceExample2.Caminhao
+polymorphismWithInheritanceExample2/Carro.java
+ polymorphismWithInheritanceExample2.Carro
