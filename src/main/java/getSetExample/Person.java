@@ -1,7 +1,7 @@
 package getSetExample;
 
 public class Person {
-    private String name; //private  = restricted access
+    public String name; //private  = restricted access
 
     //getter
     public String getName() {

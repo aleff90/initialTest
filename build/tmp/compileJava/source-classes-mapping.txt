@@ -113,3 +113,7 @@ getSetExample/Main3.java
  getSetExample.Main3
 getSetExample/Person.java
  getSetExample.Person
+inheritanceExample/Car.java
+ inheritanceExample.Car
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
