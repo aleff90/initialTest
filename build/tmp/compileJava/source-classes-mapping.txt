@@ -132,3 +132,11 @@ polymorphismWithInheritanceExample2/Caminhao.java
  polymorphismWithInheritanceExample2.Caminhao
 polymorphismWithInheritanceExample2/Carro.java
  polymorphismWithInheritanceExample2.Carro
+innerClassExample/Main.java
+ innerClassExample.Main
+ innerClassExample.OuterClass
+ innerClassExample.OuterClass$InnerClass
+interfaceExample/Main.java
+ interfaceExample.Animal
+ interfaceExample.Horse
+ interfaceExample.Main
