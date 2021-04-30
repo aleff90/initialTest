@@ -13,3 +13,9 @@ public class Main {
         System.out.println("\n The "+name+" have "+age+" years old and gain "+salary+"!");
     }
 }
+
+//nextBoolean()
+//nextByte()
+//nextFloat()
+//nextLong()
+//nextShort()
