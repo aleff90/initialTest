@@ -140,3 +140,17 @@ interfaceExample/Main.java
  interfaceExample.Animal
  interfaceExample.Horse
  interfaceExample.Main
+multipleInterfacesExample/Main.java
+ multipleInterfacesExample.DemoClass
+ multipleInterfacesExample.FirstInterface
+ multipleInterfacesExample.Main
+ multipleInterfacesExample.SecondInterface
+enumWithSwitchCaseExample/Main.java
+ enumWithSwitchCaseExample.Level
+ enumWithSwitchCaseExample.Main
+ enumWithSwitchCaseExample.Main$1
+enumWithForExample/Main.java
+ enumWithForExample.Level
+ enumWithForExample.Main
+differentTypesOfScannerClass/Main.java
+ differentTypesOfScannerClass.Main
