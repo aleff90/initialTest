@@ -156,3 +156,5 @@ differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
 dateTimeExample/Main.java
  dateTimeExample.Main
+callingMethods/Main.java
+ callingMethods.Main
