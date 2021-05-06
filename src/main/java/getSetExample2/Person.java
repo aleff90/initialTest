@@ -1,4 +1,4 @@
-package getSetExample;
+package getSetExample2;
 
 public class Person {
     public String name; //private  = restricted access

@@ -6,9 +6,8 @@ exemplosAulas/finalExample.java
  exemplosAulas.finalExample
 exemplosAulas/ifElseEstoque.java
  exemplosAulas.ifElseEstoque
-exemplosAulas/getSet.java
- exemplosAulas.getSet
- exemplosAulas.variaveis
+dateTimeExample/Main.java
+ dateTimeExample.Main
 breakContinue/Main.java
  breakContinue.Main
 exemplosAulas/operadorIncrementoDecremento.java
@@ -79,8 +78,8 @@ exemplosAulas/optionalExercicio.java
  exemplosAulas.optionalExercicio
 exemplosAulas/collectionQueueExercicio.java
  exemplosAulas.collectionQueueExercicio
-exemplosAulas/classeScanner.java
- exemplosAulas.classeScanner
+scannerClass/Main.java
+ scannerClass.Main
 exemplosAulas/overloadMethod.java
  exemplosAulas.overloadMethod
 exemplosAulas/listaNumeroPar.java
@@ -109,10 +108,11 @@ exemplosAulas/operadorTernario.java
  exemplosAulas.operadorTernario
 exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
-getSetExample/Main3.java
- getSetExample.Main3
-getSetExample/Person.java
- getSetExample.Person
+differentTypesOfScannerClass/Main.java
+ differentTypesOfScannerClass.Main
+enumWithForExample/Main.java
+ enumWithForExample.Level
+ enumWithForExample.Main
 inheritanceExample/Car.java
  inheritanceExample.Car
 inheritanceExample/Vehicle.java
@@ -149,12 +149,10 @@ enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Level
  enumWithSwitchCaseExample.Main
  enumWithSwitchCaseExample.Main$1
-enumWithForExample/Main.java
- enumWithForExample.Level
- enumWithForExample.Main
-differentTypesOfScannerClass/Main.java
- differentTypesOfScannerClass.Main
-dateTimeExample/Main.java
- dateTimeExample.Main
-scannerClass/Main.java
- scannerClass.Main
+getSetExample2/Main3.java
+ getSetExample2.Main3
+getSet/Main.java
+ getSet.Main
+ getSet.Variaveis
+getSetExample2/Person.java
+ getSetExample2.Person
