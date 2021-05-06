@@ -31,8 +31,8 @@ comparatorsExemplo/Estudante.java
  comparatorsExemplo.Estudante
 exemplosAulas/differenceBetweenStaticPublic.java
  exemplosAulas.differenceBetweenStaticPublic
-exemplosAulas/array.java
- exemplosAulas.array
+array/Main.java
+ array.Main
 exemplosAulas/recursionExample.java
  exemplosAulas.recursionExample
 exemplosAulas/overloadMethod2.java
@@ -156,5 +156,5 @@ differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
 dateTimeExample/Main.java
  dateTimeExample.Main
-array/Main.java
- array.Main
+breakContinue/Main.java
+ breakContinue.Main
