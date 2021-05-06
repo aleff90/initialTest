@@ -95,8 +95,8 @@ exemplosAulas/operacoesSimples.java
  exemplosAulas.operacoesSimples
 comparatorsExemplo/ComparatorsExampleList.java
  comparatorsExemplo.ComparatorsExampleList
-exemplosAulas/accessMethodsWithObject.java
- exemplosAulas.accessMethodsWithObject
+callingMethods/Main.java
+ callingMethods.Main
 exemplosAulas/listaNumeroImpar.java
  exemplosAulas.listaNumeroImpar
 exemplosAulas/operadoresLogicos.java
@@ -156,5 +156,5 @@ differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
 dateTimeExample/Main.java
  dateTimeExample.Main
-callingMethods/Main.java
- callingMethods.Main
+array/Main.java
+ array.Main
