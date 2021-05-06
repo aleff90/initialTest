@@ -9,8 +9,8 @@ exemplosAulas/ifElseEstoque.java
 exemplosAulas/getSet.java
  exemplosAulas.getSet
  exemplosAulas.variaveis
-exemplosAulas/breakContinue.java
- exemplosAulas.breakContinue
+breakContinue/Main.java
+ breakContinue.Main
 exemplosAulas/operadorIncrementoDecremento.java
  exemplosAulas.operadorIncrementoDecremento
 exemplosAulas/variableStoreValue.java
@@ -156,5 +156,5 @@ differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
 dateTimeExample/Main.java
  dateTimeExample.Main
-breakContinue/Main.java
- breakContinue.Main
+scannerClass/Main.java
+ scannerClass.Main
