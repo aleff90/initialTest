@@ -58,8 +58,8 @@ exemplosAulas/collectionHashSetExercicio.java
  exemplosAulas.collectionHashSetExercicio
 exemplosAulas/collectionLinkedHashSet.java
  exemplosAulas.collectionLinkedHashSet
-exemplosAulas/concatenacao.java
- exemplosAulas.concatenacao
+concat/Main.java
+ concat.Main
 exemplosAulas/collectionQueue.java
  exemplosAulas.collectionQueue
 exemplosAulas/tiposDePrintLines.java
@@ -156,5 +156,5 @@ getSet/Main.java
  getSet.Variaveis
 getSetExample2/Person.java
  getSetExample2.Person
-concat/Main.java
- concat.Main
+doWhile/Main.java
+ doWhile.Main
