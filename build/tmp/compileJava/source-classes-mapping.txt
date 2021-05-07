@@ -12,8 +12,8 @@ breakContinue/Main.java
  breakContinue.Main
 exemplosAulas/operadorIncrementoDecremento.java
  exemplosAulas.operadorIncrementoDecremento
-exemplosAulas/variableStoreValue.java
- exemplosAulas.variableStoreValue
+variableStoreValue/Main.java
+ variableStoreValue.Main
 exemplosAulas/collectionsTreeMap.java
  exemplosAulas.collectionsTreeMap
 exemplosAulas/collectionTreeSetExercicio.java
@@ -156,5 +156,5 @@ getSet/Main.java
  getSet.Variaveis
 getSetExample2/Person.java
  getSetExample2.Person
-variableStoreValue/Main.java
- variableStoreValue.Main
+printTypes/Main.java
+ printTypes.Main
