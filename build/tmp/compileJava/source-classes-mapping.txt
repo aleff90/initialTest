@@ -36,8 +36,8 @@ exemplosAulas/recursionExample.java
  exemplosAulas.recursionExample
 exemplosAulas/overloadMethod2.java
  exemplosAulas.overloadMethod2
-exemplosAulas/whileExemplo.java
- exemplosAulas.whileExemplo
+whileExample/Main.java
+ whileExample.Main
 exemplosAulas/paradigmaFuncionalExemplo.java
  exemplosAulas.paradigmaFuncionalExemplo
 abstractExample/Second.java
@@ -156,5 +156,5 @@ getSet/Main.java
  getSet.Variaveis
 getSetExample2/Person.java
  getSetExample2.Person
-whileExample/Main.java
- whileExample.Main
+variableStoreValue/Main.java
+ variableStoreValue.Main
