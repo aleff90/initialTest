@@ -68,8 +68,8 @@ exemplosAulas/streamExemplo.java
  exemplosAulas.streamExemplo
 comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
  comparatorsExemplo.EstudanteOrdemIdadeReversaComparator
-exemplosAulas/doWhile.java
- exemplosAulas.doWhile
+doWhile/Main.java
+ doWhile.Main
 exemplosAulas/haltingCondition.java
  exemplosAulas.haltingCondition
 abstractExample/Main2.java
@@ -156,5 +156,5 @@ getSet/Main.java
  getSet.Variaveis
 getSetExample2/Person.java
  getSetExample2.Person
-doWhile/Main.java
- doWhile.Main
+finalVar/Main.java
+ finalVar.Main
