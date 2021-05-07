@@ -2,8 +2,8 @@ exemplosAulas/constructorMultiParametersExample.java
  exemplosAulas.constructorMultiParametersExample
 exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
-exemplosAulas/finalExample.java
- exemplosAulas.finalExample
+finalVar/Main.java
+ finalVar.Main
 exemplosAulas/ifElseEstoque.java
  exemplosAulas.ifElseEstoque
 dateTimeExample/Main.java
@@ -156,5 +156,5 @@ getSet/Main.java
  getSet.Variaveis
 getSetExample2/Person.java
  getSetExample2.Person
-finalVar/Main.java
- finalVar.Main
+whileExample/Main.java
+ whileExample.Main
