@@ -32,8 +32,8 @@ exemplosAulas/differenceBetweenStaticPublic.java
  exemplosAulas.differenceBetweenStaticPublic
 array/Main.java
  array.Main
-exemplosAulas/recursionExample.java
- exemplosAulas.recursionExample
+printTypes/Main.java
+ printTypes.Main
 exemplosAulas/overloadMethod2.java
  exemplosAulas.overloadMethod2
 whileExample/Main.java
@@ -62,8 +62,8 @@ concat/Main.java
  concat.Main
 exemplosAulas/collectionQueue.java
  exemplosAulas.collectionQueue
-exemplosAulas/tiposDePrintLines.java
- exemplosAulas.tiposDePrintLines
+getSetExample2/Person.java
+ getSetExample2.Person
 exemplosAulas/streamExemplo.java
  exemplosAulas.streamExemplo
 comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
@@ -154,7 +154,5 @@ getSetExample2/Main3.java
 getSet/Main.java
  getSet.Main
  getSet.Variaveis
-getSetExample2/Person.java
- getSetExample2.Person
-printTypes/Main.java
- printTypes.Main
+recursiveCall/Main.java
+ recursiveCall.Main
