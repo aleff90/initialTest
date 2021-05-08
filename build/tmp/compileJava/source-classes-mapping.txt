@@ -105,8 +105,8 @@ exemplosAulas/multipleAttributes.java
  exemplosAulas.multipleAttributes
 exemplosAulas/collectionQueueExercicio.java
  exemplosAulas.collectionQueueExercicio
-exemplosAulas/overloadMethod.java
- exemplosAulas.overloadMethod
+overloadMethod/Main.java
+ overloadMethod.Main
 polymorphismWithInheritanceExample2/Main.java
  polymorphismWithInheritanceExample2.Main
 polymorphismWithInheritanceExample2/Caminhao.java
@@ -154,5 +154,5 @@ exemplosAulas/operadorTernario.java
  exemplosAulas.operadorTernario
 optionalExercise/Main.java
  optionalExercise.Main
-overloadMethod/Main.java
- overloadMethod.Main
+operadorTernario/Main.java
+ operadorTernario.Main
