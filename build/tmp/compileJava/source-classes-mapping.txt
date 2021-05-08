@@ -150,9 +150,9 @@ exemplosAulas/collectionList.java
  exemplosAulas.collectionList
 exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
-exemplosAulas/operadorTernario.java
- exemplosAulas.operadorTernario
-optionalExercise/Main.java
- optionalExercise.Main
 operadorTernario/Main.java
  operadorTernario.Main
+optionalExercise/Main.java
+ optionalExercise.Main
+operatorIncreaseDecrease/Main.java
+ operatorIncreaseDecrease.Main
