@@ -6,8 +6,8 @@ exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
  array.Main
-exemplosAulas/ifElseEstoque.java
- exemplosAulas.ifElseEstoque
+ifElseEstoque/Main.java
+ ifElseEstoque.Main
 operatorIncreaseDecrease/Main.java
  operatorIncreaseDecrease.Main
 exemplosAulas/collectionsTreeMap.java
@@ -154,5 +154,5 @@ operadorTernario/Main.java
  operadorTernario.Main
 optionalExercise/Main.java
  optionalExercise.Main
-ifElseEstoque/Main.java
- ifElseEstoque.Main
+listaNumeroPar/Main.java
+ listaNumeroPar.Main
