@@ -59,8 +59,8 @@ scannerClass/Main.java
  scannerClass.Main
 inheritanceExample/Car.java
  inheritanceExample.Car
-exemplosAulas/forExemplo.java
- exemplosAulas.forExemplo
+forExample/Main.java
+ forExample.Main
 exemplosAulas/intStreams.java
  exemplosAulas.intStreams
 enumWithSwitchCaseExample/Main.java
@@ -154,5 +154,5 @@ operadorTernario/Main.java
  operadorTernario.Main
 optionalExercise/Main.java
  optionalExercise.Main
-forExample/Main.java
- forExample.Main
+ifElseEstoque/Main.java
+ ifElseEstoque.Main
