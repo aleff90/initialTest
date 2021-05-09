@@ -111,8 +111,8 @@ polymorphismWithInheritanceExample2/Main.java
  polymorphismWithInheritanceExample2.Main
 polymorphismWithInheritanceExample2/Caminhao.java
  polymorphismWithInheritanceExample2.Caminhao
-exemplosAulas/listaNumeroPar.java
- exemplosAulas.listaNumeroPar
+optionalExercise/Main.java
+ optionalExercise.Main
 polymorphismWithInheritanceExample2/Carro.java
  polymorphismWithInheritanceExample2.Carro
 exemplosAulas/methodWithIfElse.java
@@ -152,7 +152,7 @@ exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
 operadorTernario/Main.java
  operadorTernario.Main
-optionalExercise/Main.java
- optionalExercise.Main
+haltingCondition/Main.java
+ haltingCondition.Main
 listaNumeroPar/Main.java
  listaNumeroPar.Main
