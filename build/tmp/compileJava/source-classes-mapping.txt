@@ -61,8 +61,8 @@ inheritanceExample/Car.java
  inheritanceExample.Car
 forExample/Main.java
  forExample.Main
-exemplosAulas/intStreams.java
- exemplosAulas.intStreams
+intStream/Main.java
+ intStream.Main
 enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Level
  enumWithSwitchCaseExample.Main
@@ -95,8 +95,8 @@ multipleInterfacesExample/Main.java
  multipleInterfacesExample.FirstInterface
  multipleInterfacesExample.Main
  multipleInterfacesExample.SecondInterface
-listaNumeroPar/Main.java
- listaNumeroPar.Main
+operadorTernario/Main.java
+ operadorTernario.Main
 recursiveCall/Main.java
  recursiveCall.Main
 abstractExample/Main2.java
@@ -136,8 +136,8 @@ concat/Main.java
  concat.Main
 callingMethods/Main.java
  callingMethods.Main
-exemplosAulas/listaNumeroImpar.java
- exemplosAulas.listaNumeroImpar
+haltingCondition/Main.java
+ haltingCondition.Main
 innerClassExample/Main.java
  innerClassExample.Main
  innerClassExample.OuterClass
@@ -150,9 +150,5 @@ exemplosAulas/collectionList.java
  exemplosAulas.collectionList
 exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
-operadorTernario/Main.java
- operadorTernario.Main
-haltingCondition/Main.java
- haltingCondition.Main
-intStream/Main.java
- intStream.Main
+listaNumeroParImpar/Main.java
+ listaNumeroParImpar.Main
