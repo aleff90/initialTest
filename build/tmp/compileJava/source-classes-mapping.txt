@@ -95,8 +95,8 @@ multipleInterfacesExample/Main.java
  multipleInterfacesExample.FirstInterface
  multipleInterfacesExample.Main
  multipleInterfacesExample.SecondInterface
-exemplosAulas/haltingCondition.java
- exemplosAulas.haltingCondition
+listaNumeroPar/Main.java
+ listaNumeroPar.Main
 recursiveCall/Main.java
  recursiveCall.Main
 abstractExample/Main2.java
@@ -154,5 +154,5 @@ operadorTernario/Main.java
  operadorTernario.Main
 haltingCondition/Main.java
  haltingCondition.Main
-listaNumeroPar/Main.java
- listaNumeroPar.Main
+intStream/Main.java
+ intStream.Main
