@@ -128,8 +128,8 @@ polymorphismWithInheritanceExample/Main.java
  polymorphismWithInheritanceExample.Dog
  polymorphismWithInheritanceExample.Main
  polymorphismWithInheritanceExample.Pig
-exemplosAulas/operacoesSimples.java
- exemplosAulas.operacoesSimples
+exemplosAulas/collectionHashMapExercicio.java
+ exemplosAulas.collectionHashMapExercicio
 comparatorsExemplo/ComparatorsExampleList.java
  comparatorsExemplo.ComparatorsExampleList
 concat/Main.java
@@ -144,13 +144,11 @@ innerClassExample/Main.java
  innerClassExample.OuterClass$InnerClass
 inheritanceExample/Vehicle.java
  inheritanceExample.Vehicle
-exemplosAulas/operadoresLogicos.java
- exemplosAulas.operadoresLogicos
-exemplosAulas/collectionList.java
- exemplosAulas.collectionList
-exemplosAulas/collectionHashMapExercicio.java
- exemplosAulas.collectionHashMapExercicio
 multipleAttributes/Main.java
  multipleAttributes.Main
+exemplosAulas/collectionList.java
+ exemplosAulas.collectionList
 operators/Main.java
  operators.Main
+logicOperators/Main.java
+ logicOperators.Main
