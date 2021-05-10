@@ -115,8 +115,8 @@ optionalExercise/Main.java
  optionalExercise.Main
 polymorphismWithInheritanceExample2/Carro.java
  polymorphismWithInheritanceExample2.Carro
-exemplosAulas/methodWithIfElse.java
- exemplosAulas.methodWithIfElse
+listaNumeroParImpar/Main.java
+ listaNumeroParImpar.Main
 abstractExample/Student.java
  abstractExample.Student
 exemplosAulas/collectionLinkedHashSetExercicio.java
@@ -150,5 +150,7 @@ exemplosAulas/collectionList.java
  exemplosAulas.collectionList
 exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
-listaNumeroParImpar/Main.java
- listaNumeroParImpar.Main
+exemplosAulas/methodWithIfElse.java
+ exemplosAulas.methodWithIfElse
+methodWithIfElse/Main.java
+ methodWithIfElse.Main
