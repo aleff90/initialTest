@@ -101,8 +101,8 @@ recursiveCall/Main.java
  recursiveCall.Main
 abstractExample/Main2.java
  abstractExample.Main2
-exemplosAulas/multipleAttributes.java
- exemplosAulas.multipleAttributes
+methodWithIfElse/Main.java
+ methodWithIfElse.Main
 exemplosAulas/collectionQueueExercicio.java
  exemplosAulas.collectionQueueExercicio
 overloadMethod/Main.java
@@ -150,7 +150,5 @@ exemplosAulas/collectionList.java
  exemplosAulas.collectionList
 exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
-exemplosAulas/methodWithIfElse.java
- exemplosAulas.methodWithIfElse
-methodWithIfElse/Main.java
- methodWithIfElse.Main
+multipleAttributes/Main.java
+ multipleAttributes.Main
