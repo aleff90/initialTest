@@ -32,16 +32,16 @@ comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
  comparatorsExercicio.clienteOrdemAnoNascimentoReversa
 comparatorsExemplo/Estudante.java
  comparatorsExemplo.Estudante
-exemplosAulas/differenceBetweenStaticPublic.java
- exemplosAulas.differenceBetweenStaticPublic
+logicOperators/Main.java
+ logicOperators.Main
 getSetExample2/Person.java
  getSetExample2.Person
 differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
 polymorphismWithInheritanceExample2/Veiculo.java
  polymorphismWithInheritanceExample2.Veiculo
-exemplosAulas/overloadMethod2.java
- exemplosAulas.overloadMethod2
+operators/Main.java
+ operators.Main
 abstractExample/Second.java
  abstractExample.Second
 exemplosAulas/collectionListExercicio.java
@@ -148,7 +148,5 @@ multipleAttributes/Main.java
  multipleAttributes.Main
 exemplosAulas/collectionList.java
  exemplosAulas.collectionList
-operators/Main.java
- operators.Main
-logicOperators/Main.java
- logicOperators.Main
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
