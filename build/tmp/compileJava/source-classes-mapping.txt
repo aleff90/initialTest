@@ -1,15 +1,9 @@
 dateTimeExample/Main.java
  dateTimeExample.Main
-exemplosAulas/constructorMultiParametersExample.java
- exemplosAulas.constructorMultiParametersExample
 exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
  array.Main
-ifElseEstoque/Main.java
- ifElseEstoque.Main
-operatorIncreaseDecrease/Main.java
- operatorIncreaseDecrease.Main
 exemplosAulas/collectionsTreeMap.java
  exemplosAulas.collectionsTreeMap
 exemplosAulas/collectionTreeSetExercicio.java
@@ -24,24 +18,28 @@ polymorphismWithInheritanceExample2/Moto.java
  polymorphismWithInheritanceExample2.Moto
 comparatorsExercicio/Cliente.java
  comparatorsExercicio.Cliente
+operatorIncreaseDecrease/Main.java
+ operatorIncreaseDecrease.Main
 whileExample/Main.java
  whileExample.Main
-exemplosAulas/constructorExample.java
- exemplosAulas.constructorExample
 comparatorsExercicio/clienteOrdemAnoNascimentoReversa.java
  comparatorsExercicio.clienteOrdemAnoNascimentoReversa
 comparatorsExemplo/Estudante.java
  comparatorsExemplo.Estudante
-logicOperators/Main.java
- logicOperators.Main
 getSetExample2/Person.java
  getSetExample2.Person
 differentTypesOfScannerClass/Main.java
  differentTypesOfScannerClass.Main
+methodWithIfElse/Main.java
+ methodWithIfElse.Main
 polymorphismWithInheritanceExample2/Veiculo.java
  polymorphismWithInheritanceExample2.Veiculo
-operators/Main.java
- operators.Main
+forExample/Main.java
+ forExample.Main
+listaNumeroParImpar/Main.java
+ listaNumeroParImpar.Main
+logicOperators/Main.java
+ logicOperators.Main
 abstractExample/Second.java
  abstractExample.Second
 exemplosAulas/collectionListExercicio.java
@@ -59,10 +57,8 @@ scannerClass/Main.java
  scannerClass.Main
 inheritanceExample/Car.java
  inheritanceExample.Car
-forExample/Main.java
- forExample.Main
-intStream/Main.java
- intStream.Main
+overloadMethod/Main.java
+ overloadMethod.Main
 enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Level
  enumWithSwitchCaseExample.Main
@@ -90,35 +86,37 @@ getSet/Main.java
  getSet.Variaveis
 comparatorsExemplo/EstudanteOrdemIdadeReversaComparator.java
  comparatorsExemplo.EstudanteOrdemIdadeReversaComparator
+ifElseEstoque/Main.java
+ ifElseEstoque.Main
+constructor/Main.java
+ constructor.Main
 multipleInterfacesExample/Main.java
  multipleInterfacesExample.DemoClass
  multipleInterfacesExample.FirstInterface
  multipleInterfacesExample.Main
  multipleInterfacesExample.SecondInterface
-operadorTernario/Main.java
- operadorTernario.Main
 recursiveCall/Main.java
  recursiveCall.Main
+constructorMultiParametersExample/Main.java
+ constructorMultiParametersExample.Main
+operadorTernario/Main.java
+ operadorTernario.Main
 abstractExample/Main2.java
  abstractExample.Main2
-methodWithIfElse/Main.java
- methodWithIfElse.Main
 exemplosAulas/collectionQueueExercicio.java
  exemplosAulas.collectionQueueExercicio
-overloadMethod/Main.java
- overloadMethod.Main
 polymorphismWithInheritanceExample2/Main.java
  polymorphismWithInheritanceExample2.Main
 polymorphismWithInheritanceExample2/Caminhao.java
  polymorphismWithInheritanceExample2.Caminhao
-optionalExercise/Main.java
- optionalExercise.Main
 polymorphismWithInheritanceExample2/Carro.java
  polymorphismWithInheritanceExample2.Carro
-listaNumeroParImpar/Main.java
- listaNumeroParImpar.Main
+operators/Main.java
+ operators.Main
 abstractExample/Student.java
  abstractExample.Student
+haltingCondition/Main.java
+ haltingCondition.Main
 exemplosAulas/collectionLinkedHashSetExercicio.java
  exemplosAulas.collectionLinkedHashSetExercicio
 getSetExample2/Main3.java
@@ -128,27 +126,27 @@ polymorphismWithInheritanceExample/Main.java
  polymorphismWithInheritanceExample.Dog
  polymorphismWithInheritanceExample.Main
  polymorphismWithInheritanceExample.Pig
-exemplosAulas/collectionHashMapExercicio.java
- exemplosAulas.collectionHashMapExercicio
 comparatorsExemplo/ComparatorsExampleList.java
  comparatorsExemplo.ComparatorsExampleList
 concat/Main.java
  concat.Main
 callingMethods/Main.java
  callingMethods.Main
-haltingCondition/Main.java
- haltingCondition.Main
+multipleAttributes/Main.java
+ multipleAttributes.Main
 innerClassExample/Main.java
  innerClassExample.Main
  innerClassExample.OuterClass
  innerClassExample.OuterClass$InnerClass
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
-multipleAttributes/Main.java
- multipleAttributes.Main
+optionalExercise/Main.java
+ optionalExercise.Main
+intStream/Main.java
+ intStream.Main
 exemplosAulas/collectionList.java
  exemplosAulas.collectionList
+exemplosAulas/collectionHashMapExercicio.java
+ exemplosAulas.collectionHashMapExercicio
 differenceBetweenStaticPublic/Main.java
  differenceBetweenStaticPublic.Main
-constructorMultiParametersExample/Main.java
- constructorMultiParametersExample.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
