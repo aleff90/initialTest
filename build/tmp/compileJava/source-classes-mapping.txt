@@ -1,5 +1,7 @@
 dateTimeExample/Main.java
  dateTimeExample.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
 exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
@@ -148,5 +150,5 @@ exemplosAulas/collectionHashMapExercicio.java
  exemplosAulas.collectionHashMapExercicio
 differenceBetweenStaticPublic/Main.java
  differenceBetweenStaticPublic.Main
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
+collectionHashMapExercise/Main.java
+ collectionHashMapExercise.Main
