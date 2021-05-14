@@ -49,8 +49,8 @@ exemplosAulas/collectionListExercicio.java
 enumWithForExample/Main.java
  enumWithForExample.Level
  enumWithForExample.Main
-exemplosAulas/collectionHashSet.java
- exemplosAulas.collectionHashSet
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
 comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
 exemplosAulas/optionalExemplo1.java
@@ -146,9 +146,7 @@ intStream/Main.java
  intStream.Main
 exemplosAulas/collectionList.java
  exemplosAulas.collectionList
-exemplosAulas/collectionHashMapExercicio.java
- exemplosAulas.collectionHashMapExercicio
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
 collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
+collectionHashSet/Main.java
+ collectionHashSet.Main
