@@ -150,3 +150,5 @@ collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
 collectionHashSet/Main.java
  collectionHashSet.Main
+collectionHashSetExercise/Main.java
+ collectionHashSetExercise.Main
