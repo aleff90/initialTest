@@ -67,8 +67,8 @@ enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Main$1
 variableStoreValue/Main.java
  variableStoreValue.Main
-exemplosAulas/collectionHashSetExercicio.java
- exemplosAulas.collectionHashSetExercicio
+collectionHashSet/Main.java
+ collectionHashSet.Main
 finalVar/Main.java
  finalVar.Main
 doWhile/Main.java
@@ -148,7 +148,7 @@ exemplosAulas/collectionList.java
  exemplosAulas.collectionList
 collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
-collectionHashSet/Main.java
- collectionHashSet.Main
 collectionHashSetExercise/Main.java
  collectionHashSetExercise.Main
+collectionLinkedHashSet/Main.java
+ collectionLinkedHashSet.Main
