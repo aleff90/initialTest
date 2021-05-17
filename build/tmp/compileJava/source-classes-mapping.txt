@@ -73,8 +73,8 @@ finalVar/Main.java
  finalVar.Main
 doWhile/Main.java
  doWhile.Main
-exemplosAulas/collectionLinkedHashSet.java
- exemplosAulas.collectionLinkedHashSet
+collectionLinkedHashSet/Main.java
+ collectionLinkedHashSet.Main
 breakContinue/Main.java
  breakContinue.Main
 exemplosAulas/collectionQueue.java
@@ -150,5 +150,5 @@ collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
 collectionHashSetExercise/Main.java
  collectionHashSetExercise.Main
-collectionLinkedHashSet/Main.java
- collectionLinkedHashSet.Main
+collectionLinkedHashSetExercise/Main.java
+ collectionLinkedHashSetExercise.Main
