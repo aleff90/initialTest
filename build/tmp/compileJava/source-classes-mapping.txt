@@ -1,7 +1,7 @@
 dateTimeExample/Main.java
  dateTimeExample.Main
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
+collectionHashMapExercise/Main.java
+ collectionHashMapExercise.Main
 exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
@@ -46,11 +46,11 @@ abstractExample/Second.java
  abstractExample.Second
 exemplosAulas/collectionListExercicio.java
  exemplosAulas.collectionListExercicio
+collectionLinkedHashSet/Main.java
+ collectionLinkedHashSet.Main
 enumWithForExample/Main.java
  enumWithForExample.Level
  enumWithForExample.Main
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
 comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
 exemplosAulas/optionalExemplo1.java
@@ -67,14 +67,10 @@ enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Main$1
 variableStoreValue/Main.java
  variableStoreValue.Main
-collectionHashSet/Main.java
- collectionHashSet.Main
 finalVar/Main.java
  finalVar.Main
 doWhile/Main.java
  doWhile.Main
-collectionLinkedHashSet/Main.java
- collectionLinkedHashSet.Main
 breakContinue/Main.java
  breakContinue.Main
 exemplosAulas/collectionQueue.java
@@ -97,6 +93,8 @@ multipleInterfacesExample/Main.java
  multipleInterfacesExample.FirstInterface
  multipleInterfacesExample.Main
  multipleInterfacesExample.SecondInterface
+collectionHashSetExercise/Main.java
+ collectionHashSetExercise.Main
 recursiveCall/Main.java
  recursiveCall.Main
 constructorMultiParametersExample/Main.java
@@ -105,6 +103,8 @@ operadorTernario/Main.java
  operadorTernario.Main
 abstractExample/Main2.java
  abstractExample.Main2
+collectionLinkedHashSetExercise/Main.java
+ collectionLinkedHashSetExercise.Main
 exemplosAulas/collectionQueueExercicio.java
  exemplosAulas.collectionQueueExercicio
 polymorphismWithInheritanceExample2/Main.java
@@ -119,8 +119,6 @@ abstractExample/Student.java
  abstractExample.Student
 haltingCondition/Main.java
  haltingCondition.Main
-exemplosAulas/collectionLinkedHashSetExercicio.java
- exemplosAulas.collectionLinkedHashSetExercicio
 getSetExample2/Main3.java
  getSetExample2.Main3
 polymorphismWithInheritanceExample/Main.java
@@ -140,15 +138,17 @@ innerClassExample/Main.java
  innerClassExample.Main
  innerClassExample.OuterClass
  innerClassExample.OuterClass$InnerClass
+collectionHashSet/Main.java
+ collectionHashSet.Main
 optionalExercise/Main.java
  optionalExercise.Main
 intStream/Main.java
  intStream.Main
 exemplosAulas/collectionList.java
  exemplosAulas.collectionList
-collectionHashMapExercise/Main.java
- collectionHashMapExercise.Main
-collectionHashSetExercise/Main.java
- collectionHashSetExercise.Main
-collectionLinkedHashSetExercise/Main.java
- collectionLinkedHashSetExercise.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
+collectionList/Main.java
+ collectionList.Main
