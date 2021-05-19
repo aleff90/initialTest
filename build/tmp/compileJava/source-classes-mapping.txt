@@ -152,3 +152,5 @@ differenceBetweenStaticPublic/Main.java
  differenceBetweenStaticPublic.Main
 useIteratorToRemove/Main.java
  useIteratorToRemove.Main
+tryCatch/Main.java
+ tryCatch.Main
