@@ -61,6 +61,8 @@ inheritanceExample/Car.java
  inheritanceExample.Car
 overloadMethod/Main.java
  overloadMethod.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
 enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Level
  enumWithSwitchCaseExample.Main
@@ -144,11 +146,9 @@ optionalExercise/Main.java
  optionalExercise.Main
 intStream/Main.java
  intStream.Main
-exemplosAulas/collectionList.java
- exemplosAulas.collectionList
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
 collectionList/Main.java
  collectionList.Main
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
+useIteratorToRemove/Main.java
+ useIteratorToRemove.Main
