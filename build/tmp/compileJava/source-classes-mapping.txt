@@ -6,6 +6,8 @@ exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
  array.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
 exemplosAulas/collectionsTreeMap.java
  exemplosAulas.collectionsTreeMap
 exemplosAulas/collectionTreeSetExercicio.java
@@ -44,8 +46,8 @@ logicOperators/Main.java
  logicOperators.Main
 abstractExample/Second.java
  abstractExample.Second
-exemplosAulas/collectionListExercicio.java
- exemplosAulas.collectionListExercicio
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
 collectionLinkedHashSet/Main.java
  collectionLinkedHashSet.Main
 enumWithForExample/Main.java
@@ -53,6 +55,8 @@ enumWithForExample/Main.java
  enumWithForExample.Main
 comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
+regularExpression/Main.java
+ regularExpression.Main
 exemplosAulas/optionalExemplo1.java
  exemplosAulas.optionalExemplo1
 scannerClass/Main.java
@@ -61,8 +65,8 @@ inheritanceExample/Car.java
  inheritanceExample.Car
 overloadMethod/Main.java
  overloadMethod.Main
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
+useIteratorToRemove/Main.java
+ useIteratorToRemove.Main
 enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Level
  enumWithSwitchCaseExample.Main
@@ -136,6 +140,8 @@ callingMethods/Main.java
  callingMethods.Main
 multipleAttributes/Main.java
  multipleAttributes.Main
+tryCatch/Main.java
+ tryCatch.Main
 innerClassExample/Main.java
  innerClassExample.Main
  innerClassExample.OuterClass
@@ -148,11 +154,5 @@ intStream/Main.java
  intStream.Main
 collectionList/Main.java
  collectionList.Main
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
-useIteratorToRemove/Main.java
- useIteratorToRemove.Main
-tryCatch/Main.java
- tryCatch.Main
-regularExpression/Main.java
- regularExpression.Main
+collectionListExercise/Main.java
+ collectionListExercise.Main
