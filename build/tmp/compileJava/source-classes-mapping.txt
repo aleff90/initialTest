@@ -154,3 +154,5 @@ useIteratorToRemove/Main.java
  useIteratorToRemove.Main
 tryCatch/Main.java
  tryCatch.Main
+regularExpression/Main.java
+ regularExpression.Main
