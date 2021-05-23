@@ -160,3 +160,6 @@ inheritanceExample/Vehicle.java
  inheritanceExample.Vehicle
 lambdaStoreVariable/Main.java
  lambdaStoreVariable.Main
+methodTakeLambdaParameter/Main.java
+ methodTakeLambdaParameter.Main
+ methodTakeLambdaParameter.StringFunction
