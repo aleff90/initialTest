@@ -158,3 +158,5 @@ differenceBetweenStaticPublic/Main.java
  differenceBetweenStaticPublic.Main
 inheritanceExample/Vehicle.java
  inheritanceExample.Vehicle
+lambdaStoreVariable/Main.java
+ lambdaStoreVariable.Main
