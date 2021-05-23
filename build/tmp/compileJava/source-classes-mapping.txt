@@ -6,8 +6,8 @@ exemplosAulas/collectionTreeSet.java
  exemplosAulas.collectionTreeSet
 array/Main.java
  array.Main
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
+collectionListExercise/Main.java
+ collectionListExercise.Main
 exemplosAulas/collectionsTreeMap.java
  exemplosAulas.collectionsTreeMap
 exemplosAulas/collectionTreeSetExercicio.java
@@ -46,8 +46,6 @@ logicOperators/Main.java
  logicOperators.Main
 abstractExample/Second.java
  abstractExample.Second
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
 collectionLinkedHashSet/Main.java
  collectionLinkedHashSet.Main
 enumWithForExample/Main.java
@@ -73,14 +71,14 @@ enumWithSwitchCaseExample/Main.java
  enumWithSwitchCaseExample.Main$1
 variableStoreValue/Main.java
  variableStoreValue.Main
+collectionQueue/Main.java
+ collectionQueue.Main
 finalVar/Main.java
  finalVar.Main
 doWhile/Main.java
  doWhile.Main
 breakContinue/Main.java
  breakContinue.Main
-exemplosAulas/collectionQueue.java
- exemplosAulas.collectionQueue
 printTypes/Main.java
  printTypes.Main
 exemplosAulas/streamExemplo.java
@@ -99,6 +97,8 @@ multipleInterfacesExample/Main.java
  multipleInterfacesExample.FirstInterface
  multipleInterfacesExample.Main
  multipleInterfacesExample.SecondInterface
+extendsThread/Main.java
+ extendsThread.Main
 collectionHashSetExercise/Main.java
  collectionHashSetExercise.Main
 recursiveCall/Main.java
@@ -154,7 +154,7 @@ intStream/Main.java
  intStream.Main
 collectionList/Main.java
  collectionList.Main
-collectionListExercise/Main.java
- collectionListExercise.Main
-collectionQueue/Main.java
- collectionQueue.Main
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
