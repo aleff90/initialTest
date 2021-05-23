@@ -156,3 +156,5 @@ collectionList/Main.java
  collectionList.Main
 collectionListExercise/Main.java
  collectionListExercise.Main
+collectionQueue/Main.java
+ collectionQueue.Main
