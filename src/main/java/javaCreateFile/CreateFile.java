@@ -1,4 +1,4 @@
-package createFile;
+package javaCreateFile;
 
 import java.io.File; //import the file class
 import java.io.IOException; //import the ioexception class to handle errors
