@@ -6,7 +6,7 @@ import java.io.IOException; //import the ioexception class to handle errors
 public class CreateFile {
     public static void main(String[] args) {
         try{
-            File myObj = new File("filename.txt");
+            File myObj = new File("C:\\Users\\userName\\Documents\\filename.txt");
             if(myObj.createNewFile()){
                 System.out.println("\n File created: "+myObj.getName());
             }else{
