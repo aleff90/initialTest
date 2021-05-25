@@ -163,7 +163,9 @@ lambdaStoreVariable/Main.java
 methodTakeLambdaParameter/Main.java
  methodTakeLambdaParameter.Main
  methodTakeLambdaParameter.StringFunction
-javaWriteFile/WriteToFile.java
- javaWriteFile.WriteToFile
 javaCreateFile/CreateFile.java
  javaCreateFile.CreateFile
+javaWriteFile/WriteToFile.java
+ javaWriteFile.WriteToFile
+javaReadFile/ReadFile.java
+ javaReadFile.ReadFile
