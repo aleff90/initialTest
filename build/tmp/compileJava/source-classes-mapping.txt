@@ -169,3 +169,5 @@ javaWriteFile/WriteToFile.java
  javaWriteFile.WriteToFile
 javaReadFile/ReadFile.java
  javaReadFile.ReadFile
+javaGetFileInfo/GetFileInfo.java
+ javaGetFileInfo.GetFileInfo
