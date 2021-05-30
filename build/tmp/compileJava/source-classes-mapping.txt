@@ -16,8 +16,8 @@ interfaceExample/Main.java
  interfaceExample.Animal
  interfaceExample.Horse
  interfaceExample.Main
-exemplosAulas/collectionsHashMap.java
- exemplosAulas.collectionsHashMap
+collectionsHashMap/Main.java
+ collectionsHashMap.Main
 polymorphismWithInheritanceExample2/Moto.java
  polymorphismWithInheritanceExample2.Moto
 comparatorsExercicio/Cliente.java
@@ -171,5 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
-collectionsHashMap/Main.java
- collectionsHashMap.Main
+collectionsTreeMap/Main.java
+ collectionsTreeMap.Main
