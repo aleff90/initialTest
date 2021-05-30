@@ -111,8 +111,8 @@ abstractExample/Main2.java
  abstractExample.Main2
 collectionLinkedHashSetExercise/Main.java
  collectionLinkedHashSetExercise.Main
-exemplosAulas/collectionQueueExercicio.java
- exemplosAulas.collectionQueueExercicio
+collectionQueueExercise/Main.java
+ collectionQueueExercise.Main
 polymorphismWithInheritanceExample2/Main.java
  polymorphismWithInheritanceExample2.Main
 polymorphismWithInheritanceExample2/Caminhao.java
@@ -171,5 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
-collectionQueueExercise/Main.java
- collectionQueueExercise.Main
+collectionsHashMap/Main.java
+ collectionsHashMap.Main
