@@ -171,3 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
+collectionQueueExercise/Main.java
+ collectionQueueExercise.Main
