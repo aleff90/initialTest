@@ -2,8 +2,8 @@ dateTimeExample/Main.java
  dateTimeExample.Main
 collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
-exemplosAulas/collectionTreeSet.java
- exemplosAulas.collectionTreeSet
+collectionTreeSet/Main.java
+ collectionTreeSet.Main
 array/Main.java
  array.Main
 collectionListExercise/Main.java
@@ -171,5 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
-collectionTreeSet/Main.java
- collectionTreeSet.Main
+collectionTreeSetExercise/Main.java
+ collectionTreeSetExercise.Main
