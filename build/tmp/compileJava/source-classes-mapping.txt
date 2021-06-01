@@ -8,8 +8,8 @@ array/Main.java
  array.Main
 collectionListExercise/Main.java
  collectionListExercise.Main
-exemplosAulas/collectionsTreeMap.java
- exemplosAulas.collectionsTreeMap
+collectionsTreeMap/Main.java
+ collectionsTreeMap.Main
 exemplosAulas/collectionTreeSetExercicio.java
  exemplosAulas.collectionTreeSetExercicio
 interfaceExample/Main.java
@@ -171,5 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
-collectionsTreeMap/Main.java
- collectionsTreeMap.Main
+collectionTreeSet/Main.java
+ collectionTreeSet.Main
