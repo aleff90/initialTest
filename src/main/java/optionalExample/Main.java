@@ -1,10 +1,7 @@
-package exemplosAulas;
-
+package optionalExample;
 import java.util.Optional;
-
-public class optionalExemplo1 {
+public class Main {
     public static void main(String[] args) {
-
         Optional<String> optionalString = Optional.of("\n valor presente");
         System.out.println(" valor opcional que esta presente");
         optionalString.ifPresentOrElse(System.out::println, () -> System.out.println(" não está presente"));
@@ -20,6 +17,5 @@ public class optionalExemplo1 {
         Optional<String> optionalNullErro = Optional.of(" null");
         System.out.println("\n valor opcional que lança erro NullPointerException");
         optionalNullErro.ifPresentOrElse(System.out::println, () -> System.out.println(" erro = não esta presente"));
-
     }
 }

@@ -10,8 +10,8 @@ collectionListExercise/Main.java
  collectionListExercise.Main
 collectionsTreeMap/Main.java
  collectionsTreeMap.Main
-exemplosAulas/collectionTreeSetExercicio.java
- exemplosAulas.collectionTreeSetExercicio
+collectionTreeSetExercise/Main.java
+ collectionTreeSetExercise.Main
 interfaceExample/Main.java
  interfaceExample.Animal
  interfaceExample.Horse
@@ -171,5 +171,5 @@ javaReadFile/ReadFile.java
  javaReadFile.ReadFile
 javaGetFileInfo/GetFileInfo.java
  javaGetFileInfo.GetFileInfo
-collectionTreeSetExercise/Main.java
- collectionTreeSetExercise.Main
+optionalExample/Main.java
+ optionalExample.Main
