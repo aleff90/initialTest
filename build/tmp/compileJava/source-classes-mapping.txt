@@ -1,23 +1,22 @@
+collectionQueueExercise/Main.java
+ collectionQueueExercise.Main
 dateTimeExample/Main.java
  dateTimeExample.Main
 collectionHashMapExercise/Main.java
  collectionHashMapExercise.Main
-collectionTreeSet/Main.java
- collectionTreeSet.Main
 array/Main.java
  array.Main
+javaReadFile/ReadFile.java
+ javaReadFile.ReadFile
 collectionListExercise/Main.java
  collectionListExercise.Main
-collectionsTreeMap/Main.java
- collectionsTreeMap.Main
-collectionTreeSetExercise/Main.java
- collectionTreeSetExercise.Main
+methodTakeLambdaParameter/Main.java
+ methodTakeLambdaParameter.Main
+ methodTakeLambdaParameter.StringFunction
 interfaceExample/Main.java
  interfaceExample.Animal
  interfaceExample.Horse
  interfaceExample.Main
-collectionsHashMap/Main.java
- collectionsHashMap.Main
 polymorphismWithInheritanceExample2/Moto.java
  polymorphismWithInheritanceExample2.Moto
 comparatorsExercicio/Cliente.java
@@ -42,6 +41,10 @@ forExample/Main.java
  forExample.Main
 listaNumeroParImpar/Main.java
  listaNumeroParImpar.Main
+collectionTreeSetExercise/Main.java
+ collectionTreeSetExercise.Main
+javaGetFileInfo/GetFileInfo.java
+ javaGetFileInfo.GetFileInfo
 logicOperators/Main.java
  logicOperators.Main
 abstractExample/Second.java
@@ -55,8 +58,6 @@ comparatorsExercicio/listaComparador.java
  comparatorsExercicio.listaComparador
 regularExpression/Main.java
  regularExpression.Main
-exemplosAulas/optionalExemplo1.java
- exemplosAulas.optionalExemplo1
 scannerClass/Main.java
  scannerClass.Main
 inheritanceExample/Car.java
@@ -81,8 +82,8 @@ breakContinue/Main.java
  breakContinue.Main
 printTypes/Main.java
  printTypes.Main
-exemplosAulas/streamExemplo.java
- exemplosAulas.streamExemplo
+inheritanceExample/Vehicle.java
+ inheritanceExample.Vehicle
 getSet/Main.java
  getSet.Main
  getSet.Variaveis
@@ -111,8 +112,8 @@ abstractExample/Main2.java
  abstractExample.Main2
 collectionLinkedHashSetExercise/Main.java
  collectionLinkedHashSetExercise.Main
-collectionQueueExercise/Main.java
- collectionQueueExercise.Main
+optionalExample/Main.java
+ optionalExample.Main
 polymorphismWithInheritanceExample2/Main.java
  polymorphismWithInheritanceExample2.Main
 polymorphismWithInheritanceExample2/Caminhao.java
@@ -146,30 +147,29 @@ innerClassExample/Main.java
  innerClassExample.Main
  innerClassExample.OuterClass
  innerClassExample.OuterClass$InnerClass
+differenceBetweenStaticPublic/Main.java
+ differenceBetweenStaticPublic.Main
 collectionHashSet/Main.java
  collectionHashSet.Main
+collectionsTreeMap/Main.java
+ collectionsTreeMap.Main
+lambdaStoreVariable/Main.java
+ lambdaStoreVariable.Main
 optionalExercise/Main.java
  optionalExercise.Main
 intStream/Main.java
  intStream.Main
-collectionList/Main.java
- collectionList.Main
-differenceBetweenStaticPublic/Main.java
- differenceBetweenStaticPublic.Main
-inheritanceExample/Vehicle.java
- inheritanceExample.Vehicle
-lambdaStoreVariable/Main.java
- lambdaStoreVariable.Main
-methodTakeLambdaParameter/Main.java
- methodTakeLambdaParameter.Main
- methodTakeLambdaParameter.StringFunction
-javaCreateFile/CreateFile.java
- javaCreateFile.CreateFile
 javaWriteFile/WriteToFile.java
  javaWriteFile.WriteToFile
-javaReadFile/ReadFile.java
- javaReadFile.ReadFile
-javaGetFileInfo/GetFileInfo.java
- javaGetFileInfo.GetFileInfo
-optionalExample/Main.java
- optionalExample.Main
+collectionsHashMap/Main.java
+ collectionsHashMap.Main
+collectionTreeSet/Main.java
+ collectionTreeSet.Main
+collectionList/Main.java
+ collectionList.Main
+javaCreateFile/CreateFile.java
+ javaCreateFile.CreateFile
+exemplosAulas/streamExemplo.java
+ exemplosAulas.streamExemplo
+streamExample/Main.java
+ streamExample.Main
